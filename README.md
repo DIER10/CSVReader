@@ -25,11 +25,11 @@ The order request is: ascending by number of identification.
 
 ---
 ## Problem statement.
-###1. Black box diagram.
+### 1. Black box diagram.
 ![](Diagrams/CSVReader_BlackBox.png)
 > *Diagram 1. Black box diagram. Made in [draw.io](http://draw.io/)*
 ---
-##2. Analisys.
+## 2. Analisys.
 
 ### Concepts.
 
@@ -55,21 +55,21 @@ To apply the zodiac sign filter, the "LocalDate" class will be used and a condit
 
 ## 3. Proposed solution. 
 
-####Class diagram (*UML*)
+#### Class diagram (*UML*)
 ![](Diagrams/CSVReader_UML.png)
 > *Diagram 2. Class diagram. Made in [draw.io](http://draw.io/)*
 ---
 
-####Flow chart of the gender filter.
+#### Flow chart of the gender filter.
 ![](Diagrams/FilterUsers_FlowChart.png)
 > *Diagram 3. Flow chart of the gender filter. Made in [draw.io](http://draw.io/)*
 ---
-####Flow chart of the Zodiac Sign filter.
+#### Flow chart of the Zodiac Sign filter.
 ![](Diagrams/InsertionSort_FlowChart.png)
 > *Diagram 4. Flow chart of the gender filter. Made in [draw.io](http://draw.io/)*
 ---
 
-###Task list
+### Task list
 + model
   - [] Create User Object.	
   - [] Create UserFilter Object.
