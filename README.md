@@ -7,7 +7,7 @@ and generate a new file filtered and ordered according to a criteria.
 
 *I apologize in advance for any mistakes I may make, English is not my first language*
 
-------------------------------------------------------------------------------
+---
 
 Fot this exersice the given file contains a list of users with the next data:
 
@@ -16,7 +16,7 @@ Fot this exersice the given file contains a list of users with the next data:
 3. Names.
 4. Last names
 5. Gender (*0 for masculine, 1 for feminine, 2 for other*).
-6. Date of birth(_mm,dd,yyyy_);
+6. Date of birth(*mm,dd,yyyy*);
 7. Height
 
 The filter request for this exercise is: women whose zodiac sign is sagittarius.
@@ -30,7 +30,9 @@ The order request is: ascending by number of identification.
 > *Diagram 1. Black box diagram. Made in [draw.io](http://draw.io/)*
 ---
 ##2. Analisys.
-###Concepts
+
+### Concepts.
+
 * **Zodiacal Sign:** In astrology the zodiac or zodiac (from the Greek "zoodiakos [kyklos]", "wheel of the animals") is formally a band of the celestial sphere 18 degrees wide centered on the elliptical, which is not fixed, but that drifts slightly over time against the background of the sky. This band is divided into 12 equal parts called zodiacal signs, taking as reference the point Aries, the point of intersection between the elliptical and the celestial equator.
 
 	**Sagittarius sign:** The Sagittarius zodiac sign refers to people born between the dates of November 23 to December 21. Therefore, if a person was born or is born on a date that is included within this period of time, this person will be Sagittarius.
