@@ -90,3 +90,5 @@ To apply the zodiac sign filter, the "LocalDate" class will be used and a condit
 	* https://mi.astrocentro.com/astrologia/articulo/E2049-astro-enciclopedia
 	* https://www.signos-zodiaco.com/signos/sagitario-fechas/
 	* https://docs.oracle.com/javase/8/docs/api/index.html
+
+g
